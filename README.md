@@ -8,4 +8,4 @@ For this project, I:
   * Used Natural Language Processing techniques / Latent Semantic Analysis (Tfidf and SVD) to create a semantic search engine, where you can input a search term and get a set of articles that are closest to that term, based on cosine similarities of the article vectors and the NearestNeighbors algorithm
   * GridSearched Logistic Regression, Random Forest, and KNeighbors models to get the best accuracy possible for a model that predicts the category of a new article
 
-  
+This was my fourth project for the Data Science Immersive prorgram at General Assembly.  
